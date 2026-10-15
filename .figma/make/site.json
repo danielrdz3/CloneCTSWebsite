@@ -1,0 +1,10 @@
+{
+  "description": "Provides comprehensive managed IT services tailored for Michigan businesses, enhancing technology management and support for improved efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
